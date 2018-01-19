@@ -1,3 +1,3 @@
-def square_array
-   square_array.each**2# your code here
+def square_array(numbers)
+   numbers.each**2# your code here
 end
